@@ -1,0 +1,2289 @@
+{
+    "sites": [
+        {
+            "name": "周杰伦",
+            "api": "http://api.yujn.cn/api/jay.php?type=video",
+            "key": "http://api.yujn.cn/api/jay.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 1
+        },
+        {
+            "name": "黑丝",
+            "api": "http://api.yujn.cn/api/heisis.php?type=video",
+            "key": "http://api.yujn.cn/api/heisis.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 2
+        },
+        {
+            "name": "热舞",
+            "api": "http://api.yujn.cn/api/rewu.php?type=video",
+            "key": "http://api.yujn.cn/api/rewu.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 3
+        },
+        {
+            "name": "男人之家",
+            "api": "http://v.nrzj.vip/video.php?_t=",
+            "key": "http://v.nrzj.vip/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "group": "302",
+            "host": "v.nrzj.vip",
+            "id": 4
+        },
+        {
+            "name": "diskgirl国内",
+            "api": "https://diskgirl.com/get/get1.php?_t=",
+            "key": "https://mm.diskgirl.com/get/get1.php?_t=",
+            "type": "auto",
+            "status": true,
+            "desc": "",
+            "host": "https://diskgirl.com/pc.html",
+            "logo": "https://diskgirl.com/img/logo.png",
+            "group": "",
+            "id": 5
+        },
+        {
+            "api": "https://raw.githubusercontent.com/maintell/xjj/master/video/ks.dance.txt",
+            "name": "3k快手",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "maintell",
+            "id": 6
+        },
+        {
+            "name": "快手小姐姐",
+            "api": "http://api.yujn.cn/api/ksxjjsp.php?type=video",
+            "key": "http://api.yujn.cn/api/ksxjjsp.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 7
+        },
+        {
+            "name": "遇见1",
+            "api": "http://api.yujn.cn/api/zzxjj.php?type=video",
+            "key": "http://api.yujn.cn/api/zzxjj.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 8
+        },
+        {
+            "name": "遇见2",
+            "api": "http://api.yujn.cn/api/xjj.php?type=video",
+            "key": "http://api.yujn.cn/api/xjj.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 9
+        },
+        {
+            "name": "遇见聚合",
+            "api": "http://api.yujn.cn/api/juhexjj.php?type=video",
+            "key": "http://api.yujn.cn/api/juhexjj.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 10
+        },
+        {
+            "name": "白丝",
+            "api": "http://api.yujn.cn/api/baisis.php?type=video",
+            "key": "http://api.yujn.cn/api/baisis.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 11
+        },
+        {
+            "name": "漫展",
+            "api": "http://api.yujn.cn/api/manzhan.php?type=video",
+            "key": "http://api.yujn.cn/api/manzhan.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 12
+        },
+        {
+            "name": "鞠婧祎",
+            "api": "http://api.yujn.cn/api/jjy.php?type=video",
+            "key": "http://api.yujn.cn/api/jjy.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 13
+        },
+        {
+            "name": "章若楠",
+            "api": "http://api.yujn.cn/api/zrn.php?type=video",
+            "key": "http://api.yujn.cn/api/zrn.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 14
+        },
+        {
+            "name": "杀姐",
+            "api": "http://api.yujn.cn/api/shajie.php?type=video",
+            "key": "http://api.yujn.cn/api/shajie.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 15
+        },
+        {
+            "name": "快手翻唱",
+            "api": "http://api.yujn.cn/api/ks_fc.php?type=video",
+            "key": "http://api.yujn.cn/api/ks_fc.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 16
+        },
+        {
+            "name": "汉服",
+            "api": "http://api.yujn.cn/api/hanfu.php?type=video",
+            "key": "http://api.yujn.cn/api/hanfu.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 17
+        },
+        {
+            "name": "极品美腿",
+            "api": "http://api.yujn.cn/api/jpmt.php?type=video",
+            "key": "http://api.yujn.cn/api/jpmt.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 18
+        },
+        {
+            "name": "慢摇",
+            "api": "http://api.yujn.cn/api/mamyao.php?type=video",
+            "key": "http://api.yujn.cn/api/mamyao.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 19
+        },
+        {
+            "name": "穿搭",
+            "api": "http://api.yujn.cn/api/chuanda.php?type=video",
+            "key": "http://api.yujn.cn/api/chuanda.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 20
+        },
+        {
+            "name": "丝滑舞蹈",
+            "api": "http://api.yujn.cn/api/shwd.php?type=video",
+            "key": "http://api.yujn.cn/api/shwd.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 21
+        },
+        {
+            "name": "完美身材💃",
+            "api": "http://api.yujn.cn/api/wmsc.php?type=video",
+            "key": "http://api.yujn.cn/api/wmsc.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 22
+        },
+        {
+            "name": "吊带",
+            "api": "http://api.yujn.cn/api/diaodai.php?type=video",
+            "key": "http://api.yujn.cn/api/diaodai.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 23
+        },
+        {
+            "name": "清纯",
+            "api": "http://api.yujn.cn/api/qingchun.php?type=video",
+            "key": "http://api.yujn.cn/api/qingchun.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 24
+        },
+        {
+            "name": "COS",
+            "api": "http://api.yujn.cn/api/COS.php?type=video",
+            "key": "http://api.yujn.cn/api/COS.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 25
+        },
+        {
+            "name": "女高",
+            "api": "http://api.yujn.cn/api/nvgao.php?type=video",
+            "key": "http://api.yujn.cn/api/nvgao.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 26
+        },
+        {
+            "name": "街拍",
+            "api": "http://api.yujn.cn/api/jiepai.php?type=video",
+            "key": "http://api.yujn.cn/api/jiepai.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 27
+        },
+        {
+            "name": "快手变装",
+            "api": "http://api.yujn.cn/api/ksbianzhuang.php?type=video",
+            "key": "http://api.yujn.cn/api/ksbianzhuang.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 28
+        },
+        {
+            "name": "懒羊羊翻唱",
+            "api": "http://api.yujn.cn/api/lyy.php?type=video",
+            "key": "http://api.yujn.cn/api/lyy.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 29
+        },
+        {
+            "name": "快手双倍快乐(实时更新)",
+            "api": "http://api.yujn.cn/api/sbkl.php?type=video",
+            "key": "http://api.yujn.cn/api/sbkl.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 30
+        },
+        {
+            "name": "萝莉",
+            "api": "http://api.yujn.cn/api/luoli.php?type=video",
+            "key": "http://api.yujn.cn/api/luoli.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 31
+        },
+        {
+            "name": "蜡笔小新翻唱",
+            "api": "http://api.yujn.cn/api/xiaoxin.php?type=video",
+            "key": "http://api.yujn.cn/api/xiaoxin.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 32
+        },
+        {
+            "name": "甜妹",
+            "api": "http://api.yujn.cn/api/tianmei.php?type=video",
+            "key": "http://api.yujn.cn/api/tianmei.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 33
+        },
+        {
+            "name": "JK",
+            "api": "http://api.yujn.cn/api/jksp.php?type=video",
+            "key": "http://api.yujn.cn/api/jksp.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 34
+        },
+        {
+            "name": "玉足",
+            "api": "http://api.yujn.cn/api/yuzu.php?type=video",
+            "key": "http://api.yujn.cn/api/yuzu.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 35
+        },
+        {
+            "name": "漫画芋",
+            "api": "http://api.yujn.cn/api/manhuay.php?type=video",
+            "key": "http://api.yujn.cn/api/manhuay.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 36
+        },
+        {
+            "name": "潇潇",
+            "api": "http://api.yujn.cn/api/xiaoxiao.php?type=video",
+            "key": "http://api.yujn.cn/api/xiaoxiao.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 37
+        },
+        {
+            "name": "变装",
+            "api": "http://api.yujn.cn/api/bianzhuang.php?type=video",
+            "key": "http://api.yujn.cn/api/bianzhuang.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 38
+        },
+        {
+            "name": "村少",
+            "api": "https://www.cunshao.com/666666/api/web.php?_t=",
+            "key": "https://www.cunshao.com/666666/api/web.php?_t=",
+            "type": "auto",
+            "status": true,
+            "group": "302",
+            "host": "www.cunshao.com",
+            "id": 39
+        },
+        {
+            "name": "村少横屏",
+            "api": "https://www.cunshao.com/666666/api/pc.php?_t=",
+            "key": "https://www.cunshao.com/666666/api/pc.php?_t=",
+            "type": "auto",
+            "status": true,
+            "group": "302",
+            "host": "www.cunshao.com",
+            "id": 40
+        },
+        {
+            "name": "DJ姐姐",
+            "api": "http://xjj1.716888.xyz/fenlei/djxjj/dj1.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/djxjj/dj1.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 41
+        },
+        {
+            "name": "极品钰足",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/jipinyz/jipinyz.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/jipinyz/jipinyz.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 42
+        },
+        {
+            "name": "学姐系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/xuejie/xuejie.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/xuejie/xuejie.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 43
+        },
+        {
+            "name": "卡哇伊",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/kawayi/kawayi.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/kawayi/kawayi.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 44
+        },
+        {
+            "name": "嫩嫩系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/nennen/nennen.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/nennen/nennen.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 45
+        },
+        {
+            "name": "丝滑舞蹈",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/sihuawd/sihuawd.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/sihuawd/sihuawd.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 46
+        },
+        {
+            "name": "完美身材",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/wanmeisc/wanmeisc.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/wanmeisc/wanmeisc.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 47
+        },
+        {
+            "name": "慢摇系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/manyao/manyao.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/manyao/manyao.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 48
+        },
+        {
+            "name": "丝滑吊带",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/sihuadd/sihuadd.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/sihuadd/sihuadd.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 49
+        },
+        {
+            "name": "清纯系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/qingchun/qingchun.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/qingchun/qingchun.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 50
+        },
+        {
+            "name": "COS系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/cos/cos.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/cos/cos.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 51
+        },
+        {
+            "name": "街拍系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/jiepai/jiepai.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/jiepai/jiepai.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 52
+        },
+        {
+            "name": "精品变装",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 53
+        },
+        {
+            "name": "极品萝莉",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/jipinll/jipinll.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/jipinll/jipinll.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 54
+        },
+        {
+            "name": "你的裕梦",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/nideym/nideym.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/nideym/nideym.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 55
+        },
+        {
+            "name": "甜妹系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/tianmei/tianmei.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/tianmei/tianmei.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 56
+        },
+        {
+            "name": "御丝系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/yusi/yusi.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/yusi/yusi.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 57
+        },
+        {
+            "name": "帅哥哥",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/shuaige/shuaige.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/shuaige/shuaige.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 58
+        },
+        {
+            "name": "热舞系列",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/rewu/rewu.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/rewu/rewu.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 59
+        },
+        {
+            "name": "精品收藏",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 60
+        },
+        {
+            "name": "精挑靓丽",
+            "api": "http://xjj1.716888.xyz/fenlei/api/api1.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/api/api1.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 61
+        },
+        {
+            "name": "合集1号",
+            "api": "http://xjj1.716888.xyz/fenlei/zj/heji1/heji1.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/zj/heji1/heji1.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 62
+        },
+        {
+            "name": "高清横屏",
+            "api": "http://xjj1.716888.xyz/fenlei/api/apiheng1.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/api/apiheng1.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 63
+        },
+        {
+            "name": "老外抖音",
+            "api": "http://xjj1.716888.xyz/fenlei/tkxjj/tk.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/tkxjj/tk.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 64
+        },
+        {
+            "name": "4K风景",
+            "api": "http://xjj1.716888.xyz/fenlei/4k/4k.php?random=",
+            "key": "http://xjj1.716888.xyz/fenlei/4k/4k.php?random=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj1.716888.xyz",
+            "id": 65
+        },
+        {
+            "name": "唯美背景",
+            "api": "http://api.favnow.com/background.php",
+            "key": "http://api.favnow.com/background.php",
+            "type": "auto",
+            "status": true,
+            "host": "api.favnow.com",
+            "id": 66
+        },
+        {
+            "name": "翻唱",
+            "api": "https://188sp.711888.xyz/188/video.php",
+            "key": "https://188sp.711888.xyz/188/video.php",
+            "type": "auto",
+            "status": true,
+            "group": "302",
+            "host": "188sp.711888.xyz",
+            "id": 67
+        },
+        {
+            "name": "抖音",
+            "api": "https://xiranimg.com/api.php?type=dyxjj&t=",
+            "key": "https://xiranimg.com/api.php?type=dyxjj&t=",
+            "type": "auto",
+            "status": true,
+            "host": "xiranimg.com",
+            "id": 68
+        },
+        {
+            "name": "抖音2",
+            "api": "https://xjj.349457.xyz/video.php?_t=",
+            "key": "https://xjj.349457.xyz/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "xjj.349457.xyz",
+            "id": 69
+        },
+        {
+            "name": "wpon",
+            "api": "https://tucdn.wpon.cn/api-girl/index.php?wpon=url&t=",
+            "key": "https://tucdn.wpon.cn/api-girl/index.php?wpon=url&t=",
+            "type": "auto",
+            "status": true,
+            "host": "tucdn.wpon.cn",
+            "id": 70
+        },
+        {
+            "name": "yujn",
+            "api": "http://api.yujn.cn/api/zzxjj.php?type=video&t=",
+            "key": "http://api.yujn.cn/api/zzxjj.php?type=video&t=",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 71
+        },
+        {
+            "name": "快手xjj",
+            "api": "http://ksxjj.txqq.pro/video.php?_t=",
+            "key": "http://ksxjj.txqq.pro/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "ksxjj.txqq.pro",
+            "id": 72
+        },
+        {
+            "name": "xiaoac",
+            "api": "https://www.xiaoac.com/ac/xiaojiejie/video.php?_t=",
+            "key": "https://www.xiaoac.com/ac/xiaojiejie/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "www.xiaoac.com",
+            "id": 73
+        },
+        {
+            "name": "188",
+            "api": "https://188sp.711888.xyz/188/video.php?_t=",
+            "key": "https://188sp.711888.xyz/188/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "188sp.711888.xyz",
+            "id": 74
+        },
+        {
+            "name": "轻工具",
+            "api": "https://qinggongju.com/xiaojie/video.php",
+            "key": "https://qinggongju.com/xiaojie/video.php",
+            "type": "auto",
+            "status": true,
+            "group": "",
+            "host": "qinggongju.com",
+            "logo": "https://qinggongju.com/wp-content/uploads/2023/11/logo1.png",
+            "id": 75
+        },
+        {
+            "name": "抖一抖",
+            "api": "http://dou.plus/get/get1.php?_t=",
+            "logo": "http://dou.plus/logo.png",
+            "key": "http://dou.plus/get/get1.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "dou.plus",
+            "id": 76
+        },
+        {
+            "name": "韩国福利",
+            "api": "https://jiejie.uk/xjj/fuli/video.php",
+            "key": "https://jiejie.uk/xjj/fuli/video.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 77
+        },
+        {
+            "name": "tiktok",
+            "api": "https://jiejie.uk/xjj/tiktok/video.php",
+            "key": "https://jiejie.uk/xjj/tiktok/video.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 78
+        },
+        {
+            "name": "国产小姐姐",
+            "api": "https://jiejie.uk/xjj/tiktok/video2.php",
+            "key": "https://jiejie.uk/xjj/tiktok/video2.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 79
+        },
+        {
+            "name": "小姐姐0(精品)",
+            "api": "https://jiejie.uk/xjj/get/get0.php",
+            "key": "https://jiejie.uk/xjj/get/get0.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 80
+        },
+        {
+            "name": "小姐姐1(tiktok)",
+            "api": "https://jiejie.uk/xjj/get/get1.php",
+            "key": "https://jiejie.uk/xjj/get/get1.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 81
+        },
+        {
+            "name": "小姐姐2",
+            "api": "https://jiejie.uk/xjj/get/get2.php",
+            "key": "https://jiejie.uk/xjj/get/get2.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 82
+        },
+        {
+            "name": "小姐姐4",
+            "api": "https://jiejie.uk/xjj/get/get4.php",
+            "key": "https://jiejie.uk/xjj/get/get4.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 83
+        },
+        {
+            "name": "小姐姐5",
+            "api": "https://jiejie.uk/xjj/get/get5.php",
+            "key": "https://jiejie.uk/xjj/get/get5.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 84
+        },
+        {
+            "name": "小姐姐6",
+            "api": "https://jiejie.uk/xjj/get/get6.php",
+            "key": "https://jiejie.uk/xjj/get/get6.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 85
+        },
+        {
+            "name": "小姐姐9",
+            "api": "https://jiejie.uk/xjj/get/get9.php",
+            "key": "https://jiejie.uk/xjj/get/get9.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 86
+        },
+        {
+            "name": "小姐姐10",
+            "api": "https://jiejie.uk/xjj/get/get10.php",
+            "key": "https://jiejie.uk/xjj/get/get10.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 87
+        },
+        {
+            "name": "小姐姐11",
+            "api": "https://jiejie.uk/xjj/get/get11.php",
+            "key": "https://jiejie.uk/xjj/get/get11.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 88
+        },
+        {
+            "name": "小姐姐12",
+            "api": "https://jiejie.uk/xjj/get/get12.php",
+            "key": "https://jiejie.uk/xjj/get/get12.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 89
+        },
+        {
+            "name": "wudada",
+            "api": "http://www.wudada.online/Api/ScSp",
+            "type": "json",
+            "key": "http://www.wudada.online/Api/ScSp",
+            "status": true,
+            "host": "www.wudada.online",
+            "api_parms": [
+                "$.data"
+            ],
+            "logo": "http://www.wudada.online/favicon.ico",
+            "desc": "http://www.wudada.online/video/1727508352385.mp4",
+            "id": 90
+        },
+        {
+            "name": "萌娃",
+            "api": "http://api.yujn.cn/api/mengwa.php?type=video",
+            "key": "http://api.yujn.cn/api/mengwa.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 91
+        },
+        {
+            "name": "小哥哥",
+            "api": "http://api.yujn.cn/api/xgg.php?type=video",
+            "key": "http://api.yujn.cn/api/xgg.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 92
+        },
+        {
+            "name": "胖狐推荐",
+            "api": "http://api.yujn.cn/api/panghu.php?type=video",
+            "key": "http://api.yujn.cn/api/panghu.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 93
+        },
+        {
+            "name": "翻唱",
+            "api": "http://api.yujn.cn/api/fanchang.php?type=video",
+            "key": "http://api.yujn.cn/api/fanchang.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 94
+        },
+        {
+            "name": "海边",
+            "api": "http://api.yujn.cn/api/haibian.php?type=video",
+            "key": "http://api.yujn.cn/api/haibian.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 95
+        },
+        {
+            "name": "足球⚽️",
+            "api": "http://api.yujn.cn/api/zuqiu.php?type=video",
+            "key": "http://api.yujn.cn/api/zuqiu.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 96
+        },
+        {
+            "name": "动漫视频",
+            "api": "http://api.yujn.cn/api/dmsp.php?type=video",
+            "key": "http://api.yujn.cn/api/dmsp.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 97
+        },
+        {
+            "name": "PC风景",
+            "api": "http://api.yujn.cn/api/pcfj.php?type=video",
+            "key": "http://api.yujn.cn/api/pcfj.php?type=video",
+            "type": "auto",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 98
+        },
+        {
+            "name": "小姐姐(用户x)",
+            "api": "https://jiejie.uk/xjj/get/get.php?user=x&_t=",
+            "key": "https://jiejie.uk/xjj/get/get.php?user=x&_t=",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "id": 99
+        },
+        {
+            "name": "💃韩国热舞",
+            "host": "leisi.jpse.top",
+            "logo": "",
+            "desc": "极品 擦边 韩国",
+            "api": "https://xztw.711888.xyz/mp4xjj1/20231017/{id}.gif",
+            "api_parms": [
+                "1",
+                "436"
+            ],
+            "type": "id_range",
+            "key": "https://xztw.711888.xyz/mp4xjj1/20231017/{id}.gif",
+            "status": true,
+            "group": "",
+            "id": 100
+        },
+        {
+            "name": "水果派(vpn)",
+            "host": "http://sgp1.info/",
+            "logo": "",
+            "desc": "解说 AV 传媒 需要梯子，有api可获取m3u8等信息",
+            "api": "http://sgp1.info/#/video?videoid={id}",
+            "api_parms": [
+                "139",
+                "1608"
+            ],
+            "type": "id_range",
+            "key": "http://sgp1.info/#/video?videoid={id}",
+            "status": true,
+            "id": 101
+        },
+        {
+            "name": "韩国",
+            "host": "http://sgp1.info/",
+            "logo": "",
+            "desc": "",
+            "api": "https://r2.998111.xyz/mp4/{id}.mp4",
+            "api_parms": [
+                2,
+                108
+            ],
+            "type": "id_range",
+            "key": "https://r2.998111.xyz/mp4/{id}.mp4",
+            "status": true,
+            "id": 102
+        },
+        {
+            "name": "JableLive精选(直播)",
+            "host": "https://zh.jablelive.com/",
+            "logo": "https://assets.strpst.com/assets/icons/mstile-310x310_jablelive.com.png",
+            "desc": "成人 直播 全球 8k+在线主播 网络中",
+            "api": "https://edge-hls.doppiocdn.com/hls/{id}/master/{id}_auto.m3u8",
+            "api_parms": [
+                "118274527",
+                "75923753",
+                "83306615",
+                "132789258",
+                "137783285",
+                "72418042",
+                "99604173",
+                "128424601",
+                "112816012",
+                "27734927",
+                "106111138",
+                "84688920"
+            ],
+            "type": "id_list",
+            "key": "https://edge-hls.doppiocdn.com/hls/{id}/master/{id}_auto.m3u8",
+            "status": true,
+            "id": 103
+        },
+        {
+            "name": "naked精选(直播)",
+            "host": "https://www.naked.com/?model=mona-brainard",
+            "logo": "https://cdn5.vscdns.com/images/models/samples/4489672.jpg",
+            "desc": "naked 成人 直播 国外 300+在线主播 网络慢",
+            "api": "https://hls.vscdns.com/manifest.m3u8?key=nil&provider=cdn5&model_id={id}",
+            "api_parms": [
+                "1332848",
+                "1313097",
+                "1328331",
+                "1308252",
+                "1098549",
+                "1311728",
+                "1313306",
+                "1336147",
+                "1329837",
+                "1324633",
+                "1336844",
+                "1336193",
+                "1232812",
+                "1306368",
+                "1173784",
+                "1089283",
+                "1266209",
+                "1331345"
+            ],
+            "type": "id_list",
+            "key": "https://hls.vscdns.com/manifest.m3u8?key=nil&provider=cdn5&model_id={id}",
+            "status": true,
+            "id": 104
+        },
+        {
+            "name": "Adult iptv(直播)",
+            "host": "https://adultiptv.net/free-adult-iptv/",
+            "logo": "",
+            "desc": "成人 直播 国外 多频道 网速快",
+            "api": "https://live.adultiptv.net/{id}.m3u8",
+            "api_parms": [
+                "livecams",
+                "milf",
+                "bigdick",
+                "bigtits",
+                "fetish",
+                "pornstar",
+                "bigass",
+                "interracial",
+                "latina",
+                "pov",
+                "blowjob",
+                "teen",
+                "hardcore",
+                "cuckold",
+                "threesome",
+                "russian",
+                "lesbian",
+                "rough",
+                "gangbang",
+                "anal",
+                "compilation",
+                "brunette",
+                "blonde",
+                "gay",
+                "asian"
+            ],
+            "type": "id_list",
+            "key": "https://live.adultiptv.net/{id}.m3u8",
+            "status": true,
+            "id": 105
+        },
+        {
+            "api": "https://api.yujn.cn/api/zzxjj.php?_t=",
+            "name": "遇见",
+            "group": "302",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 106
+        },
+        {
+            "api": "https://xiaochou.ren/tools/douMM/get/get1.php",
+            "group": "text",
+            "type": "auto",
+            "logo": "https://www.xiaochou.ren/wp-content/uploads/2020/02/cropped-wps-hali-queue.jpg",
+            "host": "https://www.xiaochou.ren/",
+            "name": "🤡小丑",
+            "status": true,
+            "id": 107
+        },
+        {
+            "api": "https://api.qemao.com/api/douyin/",
+            "name": "🐧企鹅猫",
+            "group": "302",
+            "status": true,
+            "type": "auto",
+            "host": "api.qemao.com",
+            "id": 108
+        },
+        {
+            "api": "http://zuorige.com/video.php?_t=",
+            "name": "昨日歌",
+            "group": "302",
+            "type": "auto",
+            "host": "http://zuorige.com/",
+            "logo": "http://zuorige.com/favicon.ico",
+            "status": true,
+            "id": 109
+        },
+        {
+            "api": "http://f01.qidav.com/sv01/{id}.mp4",
+            "type": "id_range",
+            "api_parms": [
+                "0001",
+                "1323"
+            ],
+            "name": "昨日歌range",
+            "group": "todo",
+            "status": true,
+            "host": "f01.qidav.com",
+            "id": 110
+        },
+        {
+            "api": "https://www.lcc8.com/sv/video.php?_t=",
+            "name": "lcc8",
+            "type": "auto",
+            "group": "302 tiktok",
+            "status": true,
+            "host": "www.lcc8.com",
+            "id": 111
+        },
+        {
+            "api": "https://xiaolufx.com/suiji/video.php?_t=",
+            "name": "小鹿分享",
+            "type": "auto",
+            "group": "302",
+            "status": true,
+            "host": "xiaolufx.com",
+            "id": 112
+        },
+        {
+            "api": "https://cn-sy1.rains3.com/tc1/1%20({id}).mp4",
+            "api_parms": [
+                "1",
+                "805"
+            ],
+            "type": "id_range",
+            "name": "rains3",
+            "status": true,
+            "host": "cn-sy1.rains3.com",
+            "id": 113
+        },
+        {
+            "api": "https://img.8845.top/xjj",
+            "name": "8845",
+            "group": "302",
+            "type": "302",
+            "status": true,
+            "host": "img.8845.top",
+            "id": 114
+        },
+        {
+            "api": "https://api.kuleu.com/api/xjj?type=302",
+            "name": "酷乐API",
+            "type": "302",
+            "status": true,
+            "host": "api.kuleu.com",
+            "id": 115
+        },
+        {
+            "api": "https://api.yujn.cn/api/nvda.php?type=video",
+            "name": "快手女大学生",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 116
+        },
+        {
+            "api": "https://api.yujn.cn/api/tongtong.php?type=video",
+            "name": "抖音瞳瞳",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 117
+        },
+        {
+            "api": "https://api.yujn.cn/api/duilian.php?type=video",
+            "name": "怼脸自拍",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 118
+        },
+        {
+            "api": "http://api.yujn.cn/api/shejie.php?type=video",
+            "name": "蛇姐",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 119
+        },
+        {
+            "api": "http://api.yujn.cn/api/manyao.php?type=video",
+            "name": "慢摇",
+            "status": true,
+            "type": "auto",
+            "host": "api.yujn.cn",
+            "id": 120
+        },
+        {
+            "api": "http://api.yujn.cn/api/sjsp.php?type=json&lx=sjsp",
+            "name": "随机视频",
+            "type": "json",
+            "api_parms": [
+                "$.video"
+            ],
+            "group": "todo",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 121
+        },
+        {
+            "api": "http://api.yujn.cn/api/sjsp.php?type=json&lx=ylsp",
+            "name": "娱乐视频",
+            "type": "json",
+            "api_parms": [
+                "$.video"
+            ],
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 122
+        },
+        {
+            "api": "https://api.yujn.cn/api/pcfjsp.php",
+            "name": "随机二次元房间背景",
+            "type": "direct",
+            "status": true,
+            "host": "api.yujn.cn",
+            "id": 123
+        },
+        {
+            "api": "https://5.530wx.com:7777/正规系列/三上悠亚小视频/",
+            "type": "ftp",
+            "name": "三上悠亚小视频",
+            "status": true,
+            "group": "todo",
+            "host": "5.530wx.com:7777",
+            "id": 124
+        },
+        {
+            "api": "https://api.yujn.cn/api/sese_video.php",
+            "name": "😍随机福利",
+            "status": true,
+            "type": "json",
+            "api_parms": [
+                "$.data.video_m3u8"
+            ],
+            "host": "api.yujn.cn",
+            "id": 125
+        },
+        {
+            "api": "https://video.uxxia.top/get/get6.php?videoIndex=6&_t=",
+            "name": "uxxia",
+            "status": true,
+            "host": "https://video.uxxia.top/",
+            "logo": "https://uxxia.top/wp-content/uploads/2024/05/logo-g-cion-e1715690392197.png",
+            "type": "auto",
+            "id": 126
+        },
+        {
+            "api": "https://api.bokexia.com/api/mn/",
+            "name": "博客侠",
+            "status": true,
+            "type": "auto",
+            "host": "api.bokexia.com",
+            "id": 129
+        },
+        {
+            "api": "https://api.71xk.com/api/video/v1",
+            "name": "71xk",
+            "status": true,
+            "type": "auto",
+            "host": "api.71xk.com",
+            "id": 130
+        },
+        {
+            "api": "https://video.uxxia.top/get/get2.php",
+            "name": "uxxia",
+            "type": "auto",
+            "status": true,
+            "logo": "https://uxxia.top/wp-content/uploads/2024/05/logo-g-cion-e1715690392197.png",
+            "host": "https://video.uxxia.top/",
+            "id": 131
+        },
+        {
+            "api": "http://xjj2.716888.xyz/fenlei/kuan3/v.php?_t=",
+            "name": "巨乳小姐姐",
+            "group": "巨乳",
+            "logo": "http://xjj2.716888.xyz/favicon.ico",
+            "host": "http://xjj2.716888.xyz/fenlei/kuan3/",
+            "status": true,
+            "type": "auto",
+            "id": 132
+        },
+        {
+            "api": "http://xjj2.716888.xyz/fenlei/kuan2/v.php?_t=",
+            "name": "PC宽屏",
+            "group": "",
+            "logo": "http://xjj2.716888.xyz/favicon.ico",
+            "host": "http://xjj2.716888.xyz/fenlei/kuan3/",
+            "status": true,
+            "type": "auto",
+            "id": 133
+        },
+        {
+            "api": "http://api.mmp.cc/api/ksvideo?type=mp4&id=jk",
+            "name": "远梦随机JK",
+            "logo": "https://api.mmp.cc/favicon.ico",
+            "host": "https://api.mmp.cc/doc/ksvideo.html",
+            "status": true,
+            "type": "auto",
+            "id": 134
+        },
+        {
+            "api": "http://api.mmp.cc/api/ksvideo?type=mp4&id={id}",
+            "name": "远梦随机短视频",
+            "logo": "https://api.mmp.cc/favicon.ico",
+            "host": "https://api.mmp.cc/doc/ksvideo.html",
+            "status": true,
+            "type": "id_list",
+            "api_parms": [
+                "YuMeng",
+                "NvDa",
+                "NvGao",
+                "ReWu",
+                "QingCu",
+                "YuZu",
+                "SheJie",
+                "ChuanDa",
+                "GaoZhiLiangXiaoJieJie",
+                "HanFu",
+                "HeiSi",
+                "BianZhuang",
+                "LuoLi",
+                "TianMei",
+                "BaiSi"
+            ],
+            "id": 135
+        },
+        {
+            "api": "https://api.mmp.cc/api/miss?type=mp4",
+            "name": "远梦小姐姐",
+            "logo": "https://api.mmp.cc/favicon.ico",
+            "host": "https://api.mmp.cc/doc/ksvideo.html",
+            "status": true,
+            "type": "auto",
+            "id": 136
+        },
+        {
+            "api": "http://api.mmp.cc/api/shortvideo?type=mp4",
+            "name": "远梦聚合短视频",
+            "logo": "https://api.mmp.cc/favicon.ico",
+            "host": "https://api.mmp.cc/doc/ksvideo.html",
+            "status": true,
+            "type": "auto",
+            "id": 137
+        },
+        {
+            "api": "http://bao.5364.cn/api/shipin/{id}/?_t=",
+            "host": "http://u1.cx/",
+            "logo": "http://u1.cx/favicon.ico",
+            "name": "不知火舞",
+            "status": true,
+            "type": "id_range",
+            "api_parms": [
+                "1",
+                "13"
+            ],
+            "id": 147
+        },
+        {
+            "api": "https://li2345.com/xjj/video/getUrl",
+            "host": "https://li2345.com/xjj",
+            "logo": "https://li2345.com/favicon.ico",
+            "status": true,
+            "name": "li2345",
+            "type": "json",
+            "api_parms": [
+                "$.data.urlList[0]"
+            ],
+            "id": 148
+        },
+        {
+            "api": "https://xhnzz.com/index/tool/xjj/video.php?_t=",
+            "logo": "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/7295abb1bfb5ef6fa006ca429100396495b812799ed0092972f0c2a508de14f494fd518eee0dd907083415033714d74a?pictype=scale&from=30013&version=3.3.3.3&fname=avatar35.png&size=750",
+            "host": "https://xhnzz.com/index/tool/xjj/index.php",
+            "name": "小黑鸟",
+            "status": true,
+            "type": "auto",
+            "id": 149
+        },
+        {
+            "api": "https://773883.xyz/get/get{id}.php",
+            "name": "773883",
+            "type": "id_range",
+            "api_parms": [
+                "1",
+                "3"
+            ],
+            "host": "https://773883.xyz/pc.html",
+            "logo": "https://773883.xyz/favicon.ico",
+            "status": true,
+            "id": 150
+        },
+        {
+            "name": "onexiaolaji",
+            "api": "https://onexiaolaji.cn/RandomPicture/api/api-video.php",
+            "type": "json",
+            "api_parms": [
+                "$.raw_url"
+            ],
+            "logo": "https://q1.qlogo.cn/g?b=qq&nk=249663924&s=640",
+            "host": "https://www.onexiaolaji.cn/RandomPicture/",
+            "status": true,
+            "id": 151
+        },
+        {
+            "api": "https://www.tblist.cn/douyin/video.php?_t=",
+            "name": "tblist",
+            "status": true,
+            "type": "auto",
+            "host": "www.tblist.cn",
+            "id": 153
+        },
+        {
+            "api": "https://qtkj.fun/api/jksp.php",
+            "name": "晴天JK",
+            "host": "https://qtkj.fun/api/details.php?id=14",
+            "logo": "https://a.qtkj.love/api/resource/%E6%99%B4%E5%A4%A9%E7%A7%91%E6%8A%80/1.png",
+            "status": true,
+            "type": "auto",
+            "id": 154
+        },
+        {
+            "api": "https://qtkj.fun/api/{id}.php",
+            "name": "晴天API",
+            "host": "https://qtkj.fun/",
+            "logo": "https://a.qtkj.love/api/resource/%E6%99%B4%E5%A4%A9%E7%A7%91%E6%8A%80/1.png",
+            "status": true,
+            "type": "id_list",
+            "api_parms": [
+                "qttj",
+                "jksp",
+                "xqtj",
+                "sktj",
+                "cossp",
+                "xjjsp"
+            ],
+            "id": 155
+        },
+        {
+            "api": "https://b-hls-06.doppiocdn.live/hls/{id}/{id}_160p.m3u8",
+            "name": "91pron(直播)",
+            "api_parms": [
+                "142266575",
+                "140931658",
+                "174047706",
+                "103436459",
+                "175526048",
+                "89864150",
+                "140822880",
+                "173619916",
+                "140931658",
+                "140799008",
+                "166895822"
+            ],
+            "type": "id_list",
+            "host": "https://zh.9splt.com/",
+            "logo": "https://img.strpst.com/thumbs/1732460490/140931658_webp",
+            "status": true,
+            "id": 156
+        },
+        {
+            "name": "mycamtv(直播)",
+            "api": "http://live.mycamtv.com/{id}.m3u8",
+            "type": "id_list",
+            "api_parms": [
+                "anal",
+                "arab",
+                "asian",
+                "bigass",
+                "defstream",
+                "bigtits",
+                "blonde",
+                "blowjob",
+                "brunette",
+                "ebony",
+                "latina",
+                "bigtits",
+                "medium",
+                "milf",
+                "skinny",
+                "squirt",
+                "teen",
+                "white",
+                "young"
+            ],
+            "status": true,
+            "host": "live.mycamtv.com",
+            "id": 157
+        },
+        {
+            "name": "diskgirl用户1",
+            "api": "https://diskgirl.com/get/get.php?user=1",
+            "key": "https://mm.diskgirl.com/get/get1.php?_t=",
+            "type": "auto",
+            "status": true,
+            "desc": "",
+            "host": "https://diskgirl.com/pc.html",
+            "logo": "https://diskgirl.com/img/logo.png",
+            "group": "",
+            "id": 158
+        },
+        {
+            "api": "https://28apk.com/mm/video.php?_t=",
+            "name": "28apk",
+            "host": "https://28apk.com/mm/",
+            "logo": "https://28apk.com/mm/img/dianzan.png",
+            "status": true,
+            "type": "auto",
+            "id": 159
+        },
+        {
+            "api": "https://v.591meta.com/ks.txt",
+            "name": "2w快手",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "v.591meta.com",
+            "group": "591meta",
+            "id": 161
+        },
+        {
+            "api": "https://raw.githubusercontent.com/maintell/xjj/master/video/ks.meinv.txt",
+            "name": "快手美女",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "maintell",
+            "id": 162
+        },
+        {
+            "api": "https://raw.githubusercontent.com/maintell/xjj/master/video/ks.meitui.txt",
+            "name": "快手美腿",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "maintell",
+            "id": 163
+        },
+        {
+            "api": "https://raw.githubusercontent.com/maintell/xjj/master/video/ks.txt",
+            "name": "快手",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "maintell",
+            "id": 164
+        },
+        {
+            "api": "https://raw.githubusercontent.com/maintell/xjj/master/video/tiktok.txt",
+            "name": "tiktok",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "maintell",
+            "id": 165
+        },
+        {
+            "api": "https://raw.githubusercontent.com/xiaoboke/xjjsuiji/master/ks.txt",
+            "name": "小波可1w快手",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.githubusercontent.com",
+            "group": "",
+            "id": 166
+        },
+        {
+            "name": "diskgirl(tiktok)",
+            "api": "https://mm.diskgirl.com/get/get1.php?_t=",
+            "key": "https://mm.diskgirl.com/get/get1.php?_t=",
+            "type": "auto",
+            "status": true,
+            "desc": "text",
+            "host": "https://mm.diskgirl.com/pc.html",
+            "logo": "https://mm.diskgirl.com/img/logo.png",
+            "group": "text",
+            "id": 167
+        },
+        {
+            "name": "diskgirl2(国内)💯",
+            "api": "https://mm.diskgirl.com/get/get2.php?_t=",
+            "key": "https://mm.diskgirl.com/get/get2.php?_t=",
+            "type": "auto",
+            "status": true,
+            "group": "text",
+            "host": "mm.diskgirl.com",
+            "id": 168
+        },
+        {
+            "name": "diskgirl(用户1)",
+            "api": "https://mm.diskgirl.com/get/get.php?user=1&_t=",
+            "key": "https://mm.diskgirl.com/get/get.php?user=1&_t=",
+            "type": "auto",
+            "status": true,
+            "host": "mm.diskgirl.com",
+            "id": 170
+        },
+        {
+            "name": "高质量小姐姐",
+            "api": "https://api.cenguigui.cn/api/mp4/MP4_xiaojiejie.php?type=mp4",
+            "status": true,
+            "logo": "https://q1.qlogo.cn/g?b=qq&nk=2963246343&s=640",
+            "group": "笒鬼鬼api",
+            "host": "https://api.cenguigui.cn/api/mp4_xiaojiejie.html",
+            "type": "auto",
+            "id": 171
+        },
+        {
+            "name": "萝莉",
+            "api": "https://api.cenguigui.cn/api/mp4/api.php?type=luoli&format=mp4",
+            "status": true,
+            "logo": "https://q1.qlogo.cn/g?b=qq&nk=2963246343&s=640",
+            "group": "笒鬼鬼api",
+            "host": "https://api.cenguigui.cn/api/mp4_xiaojiejie.html",
+            "type": "auto",
+            "id": 172
+        },
+        {
+            "name": "妹子",
+            "api": "https://api.cenguigui.cn/api/mp4/api.php?type=meizi&format=mp4",
+            "status": true,
+            "logo": "https://q1.qlogo.cn/g?b=qq&nk=2963246343&s=640",
+            "group": "笒鬼鬼api",
+            "host": "https://api.cenguigui.cn/api/mp4_xiaojiejie.html",
+            "type": "auto",
+            "id": 173
+        },
+        {
+            "name": "随机视频",
+            "api": "https://api.yviii.com/video/suiji.php",
+            "status": true,
+            "logo": "https://api.yviii.com/favicon.ico",
+            "group": "",
+            "host": "https://api.yviii.com/video/",
+            "type": "auto",
+            "id": 174
+        },
+        {
+            "name": "随机视频2",
+            "api": "https://api.yviii.com/video/i.php",
+            "status": true,
+            "logo": "https://api.yviii.com/favicon.ico",
+            "group": "",
+            "host": "https://api.yviii.com/video/",
+            "type": "auto",
+            "id": 175
+        },
+        {
+            "name": "随机甜妹",
+            "api": "https://api.52vmy.cn/api/video/tianmei?type=text",
+            "status": true,
+            "logo": "https://api.52vmy.cn/favicon.ico",
+            "group": "",
+            "host": "https://api.52vmy.cn/doc/video/tianmei.html",
+            "api_parms": [
+                ""
+            ],
+            "type": "auto",
+            "id": 176
+        },
+        {
+            "name": "随机美女",
+            "api": "https://api.52vmy.cn/api/video/girl?type=text",
+            "status": true,
+            "logo": "https://api.52vmy.cn/favicon.ico",
+            "group": "",
+            "host": "https://api.52vmy.cn/",
+            "api_parms": [
+                ""
+            ],
+            "type": "auto",
+            "id": 177
+        },
+        {
+            "name": "随机娱乐",
+            "api": "https://api.52vmy.cn/api/video/yule?type=text",
+            "status": true,
+            "logo": "https://api.52vmy.cn/favicon.ico",
+            "group": "",
+            "host": "https://api.52vmy.cn/",
+            "api_parms": [
+                ""
+            ],
+            "type": "auto",
+            "id": 178
+        },
+        {
+            "api": "https://api.suyanw.cn/api/xjj/api.php",
+            "name": "素颜",
+            "status": true,
+            "type": "auto",
+            "host": "api.suyanw.cn",
+            "id": 179
+        },
+        {
+            "api": "https://api.xudu.org/vos/vc",
+            "name": "xudu",
+            "status": true,
+            "type": "auto",
+            "host": "api.xudu.org",
+            "id": 180
+        },
+        {
+            "api": "https://api.kuleu.com/api/MP4_xiaojiejie?type=text",
+            "name": "酷乐API2",
+            "type": "auto",
+            "status": true,
+            "host": "api.kuleu.com",
+            "id": 181
+        },
+        {
+            "api": "https://raw.githubusercontent.com/iptv-js/iptv/95761cdb9ba309a6ffb68b86827629fba1e118a6/movie/ks-meitui.txt",
+            "name": "快手美腿775",
+            "type": "dir",
+            "status": true,
+            "host": "raw.githubusercontent.com",
+            "id": 182
+        },
+        {
+            "api": "https://cn-sy1.rains3.com/tc1/1/({id}).mp4",
+            "api_parms": [
+                "1",
+                "805"
+            ],
+            "type": "id_range",
+            "name": "rains3",
+            "status": true,
+            "host": "cn-sy1.rains3.com",
+            "id": 183
+        },
+        {
+            "api": "https://raw.githubusercontent.com/51sec/xjj/master/get/GET1.txt",
+            "name": "51sec",
+            "type": "dir",
+            "status": true,
+            "desc": "",
+            "host": "raw.kkgithub.com",
+            "group": "51sec",
+            "id": 184
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频/卡哇伊分区/",
+            "name": "惜染图库  卡哇伊分区",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 185
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频",
+            "name": "惜染图库  小姐姐视频",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 186
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频/COS分区/",
+            "name": "惜染图库  COS分区",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 187
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频/极品萝莉分区/",
+            "name": "惜染图库  极品萝莉分区",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 188
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频/学姐分区/",
+            "name": "惜染图库  学姐分区",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 189
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=小姐姐视频/25分区/",
+            "name": "惜染图库  25分区",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 190
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=快手小姐姐视频",
+            "name": "惜染图库  快手小姐姐视频",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 191
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=优质小姐姐视频",
+            "name": "惜染图库  优质小姐姐视频",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 192
+        },
+        {
+            "api": "https://xiranimg.com/apis.php?type=抖音小姐姐视频",
+            "name": "惜染图库  抖音小姐姐视频",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 193
+        },
+        {
+            "api": "https://api.cnmpp.com/sj/?type=json.mp4",
+            "type": "direct",
+            "name": "萝莉工坊API",
+            "status": true,
+            "logo": "https://46666.cn/wp-content/uploads/2024/10/cropped-luoli2-192x192.png",
+            "host": "https://cnmpp.com/",
+            "id": 194
+        },
+        {
+            "api": "https://api.cnmpp.com/pg/?type=json.mp4",
+            "type": "direct",
+            "name": "萝莉工坊 pg",
+            "status": true,
+            "logo": "https://46666.cn/wp-content/uploads/2024/10/cropped-luoli2-192x192.png",
+            "host": "https://cnmpp.com/",
+            "id": 195
+        },
+        {
+            "api": "https://api.ba9.cn/api/get.xjj",
+            "name": "善恶API",
+            "status": true,
+            "type": "auto",
+            "host": "api.ba9.cn",
+            "id": 196
+        },
+        {
+            "api": "https://api.kxzjoker.cn/API/Beautyvideo.php?type=down",
+            "name": "随风",
+            "logo": "https://thirdqq.qlogo.cn/g?b=qq&nk=3414515912&s=100",
+            "host": "https://acccd.cn/archives/49/",
+            "status": true,
+            "type": "auto",
+            "id": 197
+        },
+        {
+            "name": "轻工具2 key",
+            "api": "https://v.api.aa1.cn/api/api-dy-girl/index.php?aa1=ajdu987hrjfw",
+            "key": "https://v.api.aa1.cn/api/api-girl-11-02/index.php?type=video&t=",
+            "type": "auto",
+            "status": true,
+            "api_parms": [
+                ""
+            ],
+            "group": "",
+            "host": "v.api.aa1.cn",
+            "id": 198
+        },
+        {
+            "api": "https://api.dwo.cc/api/ksvideo",
+            "name": "小渡API",
+            "logo": "https://api.dwo.cc/favicon.ico",
+            "status": true,
+            "type": "auto",
+            "host": "api.dwo.cc",
+            "id": 199
+        },
+        {
+            "api": "https://api.dwo.cc/api/viodes",
+            "name": "小渡API 快手",
+            "logo": "https://api.dwo.cc/favicon.ico",
+            "status": true,
+            "type": "auto",
+            "host": "api.dwo.cc",
+            "id": 200
+        },
+        {
+            "api": "https://v2.xxapi.cn/api/meinv?return=302",
+            "name": "小小API",
+            "logo": "https://xxapi.cn/favicon.ico",
+            "status": true,
+            "type": "auto",
+            "host": "v2.xxapi.cn",
+            "id": 201
+        },
+        {
+            "api": "https://baiapi.cn/api/sjxjj?type=302",
+            "name": "BaiAPI",
+            "logo": "https://baiapi.cn/favicon.ico",
+            "status": true,
+            "type": "auto",
+            "host": "baiapi.cn",
+            "id": 202
+        },
+        {
+            "api": "https://www.doumei.cc/api/v1/recommend",
+            "name": "抖妹",
+            "type": "json",
+            "api_parms": [
+                "$.data[0].content"
+            ],
+            "group": "韩国",
+            "logo": "https://admin.doumei.cc/storage/files/513faaed123780d2c98b2331874753e3.ico",
+            "host": "https://www.doumei.cc/",
+            "status": true,
+            "id": 203
+        },
+        {
+            "api": "https://www.ddayh.com/xjj/video.php?_t=",
+            "name": "ddayh",
+            "status": true,
+            "type": "auto",
+            "host": "www.ddayh.com",
+            "id": 204
+        },
+        {
+            "name": "小鲁分享网",
+            "api": "https://www.xiaolufx.net/suiji/video.php?_t=",
+            "status": true,
+            "type": "auto",
+            "host": "www.xiaolufx.net",
+            "id": 205
+        },
+        {
+            "api": "https://www.surenwangluo.com/content/templates/ziyuan_theme/inc/video/tool_ks_xjj.php",
+            "name": "素人网络",
+            "status": true,
+            "type": "auto",
+            "host": "www.surenwangluo.com",
+            "id": 206
+        },
+        {
+            "api": "https://xx.knit.bid/get_video",
+            "name": "knit",
+            "status": true,
+            "type": "json",
+            "host": "",
+            "api_parms": [
+                "$.url"
+            ],
+            "id": 207
+        },
+        {
+            "api": "https://www.zhiyunge.cn/ks/ks.php?_t=",
+            "name": "zhiyunge",
+            "type": "302",
+            "status": true,
+            "host": "www.zhiyunge.cn",
+            "id": 208
+        },
+        {
+            "api": " https://v2.api-m.com/api/meinv",
+            "host": "https://video.gincode.cn/",
+            "status": true,
+            "type": "json",
+            "api_parms": [
+                "$.data"
+            ],
+            "name": "清酒短",
+            "id": 209
+        },
+        {
+            "api": "https://sao.fm/api/xjj/api/video.php",
+            "type": "302",
+            "status": true,
+            "name": "Sao.fm",
+            "host": "sao.fm",
+            "logo": "https://sao.fm/wp-content/uploads/20240330011029829.png",
+            "id": 212
+        },
+        {
+            "api": "https://v.lcc8.com/sv/video.php?_t=",
+            "name": "lcc8",
+            "type": "302",
+            "group": "",
+            "status": true,
+            "host": "www.lcc8.com",
+            "logo": "https://v.lcc8.com/favicon.ico",
+            "id": 213
+        },
+        {
+            "api": "https://usz.me/d/SSD/tag/{id}.mp4",
+            "name": "usz.me",
+            "type": "id_range",
+            "group": "",
+            "status": true,
+            "host": "www.lcc8.com",
+            "logo": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+            "api_parms": [
+                "2",
+                "13352"
+            ],
+            "id": 214
+        },
+        {
+            "api": "https://usz.me/d/SSD/xjj/{id}.mp4",
+            "name": "usz小姐姐",
+            "type": "id_range",
+            "group": "",
+            "status": true,
+            "host": "www.lcc8.com",
+            "logo": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+            "api_parms": [
+                "1000",
+                "9247"
+            ],
+            "id": 215
+        },
+        {
+            "name": "uk7",
+            "api": "https://jiejie.uk/xjj/get/get7.php",
+            "key": "https://jiejie.uk/xjj/get/get6.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "logo": "https://jiejie.uk/images/favicon.ico",
+            "id": 216
+        },
+        {
+            "name": "uk8",
+            "api": "https://jiejie.uk/xjj/get/get8.php",
+            "key": "https://jiejie.uk/xjj/get/get6.php",
+            "type": "auto",
+            "status": true,
+            "host": "jiejie.uk",
+            "logo": "https://jiejie.uk/images/favicon.ico",
+            "id": 217
+        },
+        {
+            "api": "https://jyblog.cn/xjj/api/index.php",
+            "name": "倦意博客post",
+            "type": "post",
+            "api_parms": [
+                "r=xxx&t=yyy $.data.url[20]"
+            ],
+            "status": true,
+            "desc": "暂不支持",
+            "host": "jyblog.cn",
+            "id": 218
+        },
+        {
+            "api": "https://xhnzz.com/index/api/video/xjj/api.php",
+            "logo": "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/7295abb1bfb5ef6fa006ca429100396495b812799ed0092972f0c2a508de14f494fd518eee0dd907083415033714d74a?pictype=scale&from=30013&version=3.3.3.3&fname=avatar35.png&size=750",
+            "host": "https://xhnzz.com/index/tool/xjj/index.php",
+            "name": "小黑鸟2",
+            "status": true,
+            "type": "auto",
+            "id": 219
+        },
+        {
+            "api": "http://xjj2.716888.xyz/fenlei/djxjj/dj1.php?random=",
+            "name": "DJ小姐姐",
+            "group": "巨乳",
+            "logo": "http://xjj2.716888.xyz/favicon.ico",
+            "host": "http://xjj2.716888.xyz/fenlei/kuan3/",
+            "status": true,
+            "type": "302",
+            "id": 220
+        },
+        {
+            "api": " http://xjj2.716888.xyz/fenlei/zj/gengxin/gengxin.php?random=",
+            "name": "实时更新",
+            "group": "",
+            "logo": "http://xjj2.716888.xyz/favicon.ico",
+            "host": "http://xjj2.716888.xyz/",
+            "status": true,
+            "type": "302",
+            "id": 221
+        },
+        {
+            "api": " http://xjj2.716888.xyz/fenlei/zj/jipinyz/jipinyz.php?random=",
+            "name": "极品玉足",
+            "group": "",
+            "logo": "http://xjj2.716888.xyz/favicon.ico",
+            "host": "http://xjj2.716888.xyz/",
+            "status": true,
+            "type": "302",
+            "id": 222
+        },
+        {
+            "name": "18源",
+            "api": "https://raw.githubusercontent.com/jieray/PG/refs/heads/main/zhibo/18源.txt",
+            "type": "dir",
+            "status": true,
+            "host": "raw.githubusercontent.com",
+            "id": 223
+        },
+        {
+            "api": " https://xjj.qdqqd.com/",
+            "name": "qdqqd",
+            "logo": "https://api.dwo.cc/favicon.ico",
+            "status": true,
+            "type": "auto",
+            "host": "api.dwo.cc",
+            "id": 224
+        },
+        {
+            "api": "https://tucdn.wpon.cn/api-girl/index.php?wpon=302",
+            "name": "wpon",
+            "type": "302",
+            "status": true,
+            "host": "tucdn.wpon.cn",
+            "id": 226
+        },
+        {
+            "api": "https://tucdn.wpon.cn/api-girl/videos/{id}.mp4",
+            "name": "wpon2",
+            "type": "id_range",
+            "status": true,
+            "api_parms": [
+                "1",
+                "999"
+            ],
+            "host": "tucdn.wpon.cn",
+            "id": 227
+        },
+        {
+            "api": "https://xn--pss10dr00fpke.com/api/videos?table=all&count=10",
+            "name": "鉴宝大赏",
+            "type": "json",
+            "api_parms": [
+                "$[0].url"
+            ],
+            "status": true,
+            "host": "xn--pss10dr00fpke.com",
+            "id": 228
+        },
+        {
+            "api": "https://xn--pss10dr00fpke.com/api/videos?table=z47&count=10",
+            "name": "鉴宝大赏z47",
+            "type": "json",
+            "api_parms": [
+                "$[0].url"
+            ],
+            "status": true,
+            "host": "xn--pss10dr00fpke.com",
+            "id": 229
+        },
+        {
+            "api": "https://xn--pss10dr00fpke.com/api/videos?table=yusixilie&count=10",
+            "name": "鉴宝大赏御丝系列",
+            "type": "json",
+            "api_parms": [
+                "$[0].url"
+            ],
+            "status": true,
+            "host": "xn--pss10dr00fpke.com",
+            "id": 230
+        },
+        {
+            "api": "https://xn--pss10dr00fpke.com/api/videos?table=duilian&count=10",
+            "name": "鉴宝大赏怼脸系列",
+            "type": "json",
+            "api_parms": [
+                "$[0].url"
+            ],
+            "status": true,
+            "host": "xn--pss10dr00fpke.com",
+            "id": 231
+        },
+        {
+            "api": "https://hefollo.com/apis.php?type=小姐姐视频",
+            "name": "hefollo小姐姐视频",
+            "logo": "https://hefollo.com/favicon.ico",
+            "host": "https://hefollo.com/",
+            "type": "auto",
+            "status": true,
+            "id": 232
+        },
+        {
+            "api": "https://raw.githubusercontent.com/0xFlag/kuaishouxjj/refs/heads/master/templates/ks2020.txt",
+            "name": "快手小姐姐2020",
+            "type": "dir",
+            "status": true,
+            "host": "raw.githubusercontent.com",
+            "id": 233
+        },
+        {
+            "api": "https://raw.githubusercontent.com/gbxh/meinv/refs/heads/main/ks.txt",
+            "name": "快手小姐姐2022",
+            "type": "dir",
+            "status": true,
+            "host": "raw.githubusercontent.com",
+            "id": 234
+        },
+        {
+            "name": "🛥游艇girl",
+            "api": "https://play.cnnnnet.com/youtinggirl.php?_t=",
+            "key": "https://play.cnnnnet.com/youtinggirl.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "play.cnnnnet.com",
+            "id": 236
+        },
+        {
+            "name": "你好污啊",
+            "api": "https://www.nihaowua.com/v/video.php?_t=",
+            "key": "https://www.nihaowua.com/v/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "www.nihaowua.com",
+            "id": 237
+        },
+        {
+            "name": "兔儿集",
+            "api": "http://v.tuerji.net/video.php?_t=",
+            "logo": "https://tuerji.net/wp-content/uploads/2020/10/favicon-tuerji.ico",
+            "key": "http://v.tuerji.net/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "v.tuerji.net",
+            "id": 238
+        },
+        {
+            "name": "99sgou",
+            "api": "https://www.99sgou.com/xjj/video.php?_t=",
+            "key": "https://www.99sgou.com/xjj/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "www.99sgou.com",
+            "id": 239
+        },
+        {
+            "name": "小男人",
+            "api": "https://xiao.nanna.ren/video.php?_t=",
+            "key": "https://xiao.nanna.ren/video.php?_t=",
+            "type": "auto",
+            "status": true,
+            "host": "xiao.nanna.ren",
+            "id": 240
+        },
+        {
+            "api": "https://jx.iqfk.top/api/dysp/?apikey=528a49e2-7d07-0bb8-56b2-dca7190c13e0b03622da&type=video",
+            "group": "",
+            "logo": "https://jx.iqfk.top/favicon.ico",
+            "host": "https://www.iqfk.top/",
+            "name": "点心花语抖音视频",
+            "status": true,
+            "type": "302",
+            "id": 242
+        },
+        {
+            "api": "https://jx.iqfk.top/api/meinv/?apikey=0d4d8889-01a1-055e-4612-87ea83174faf96480963&type=video",
+            "group": "",
+            "logo": "https://jx.iqfk.top/favicon.ico",
+            "host": "https://www.iqfk.top/",
+            "name": "点心花语随机",
+            "status": true,
+            "type": "302",
+            "id": 243
+        },
+        {
+            "api": "https://api.cnmpp.com/{id}/?type=json",
+            "type": "id_list",
+            "name": "萝莉工坊系列",
+            "status": true,
+            "logo": "https://46666.cn/wp-content/uploads/2024/10/cropped-luoli2-192x192.png",
+            "host": "https://cnmpp.com/",
+            "api_parms": [
+                "pg",
+                "ffj",
+                "kxww",
+                "azy",
+                "ssblc",
+                "xze",
+                "bl",
+                "uu",
+                "yby"
+            ],
+            "id": 244
+        }
+    ],
+    "videos": []
+}
